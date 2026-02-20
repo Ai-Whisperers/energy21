@@ -1,0 +1,1071 @@
+1
+00:00:00,000 --> 00:00:03,439
+The first thing what you do is this conversation.
+
+2
+00:00:03,439 --> 00:00:08,640
+You split this into the different conversations that have been had during this conversation.
+
+3
+00:00:08,640 --> 00:00:12,120
+Now this audio can be about that project.
+
+4
+00:00:12,120 --> 00:00:13,120
+Yeah, anyway.
+
+5
+00:00:13,120 --> 00:00:19,400
+And then the extra content you put with your project.
+
+6
+00:00:19,400 --> 00:00:24,120
+This is for example like a quick overview I think of the stuff.
+
+7
+00:00:24,120 --> 00:00:27,400
+It's the flow that it should be doing.
+
+8
+00:00:27,399 --> 00:00:32,679
+I think you should describe that but not in your sales piece.
+
+9
+00:00:32,679 --> 00:00:33,679
+Describe how it works.
+
+10
+00:00:33,679 --> 00:00:37,239
+That's for example here.
+
+11
+00:00:37,239 --> 00:00:38,239
+Phase one.
+
+12
+00:00:38,239 --> 00:00:40,119
+AI first line support.
+
+13
+00:00:40,119 --> 00:00:45,000
+AI reads incoming tickets automatically, answers simple questions immediately, attempts
+
+14
+00:00:45,000 --> 00:00:49,239
+to fix known issues, only escalates complex problems to humans.
+
+15
+00:00:49,239 --> 00:00:53,280
+For complex issues AI creates detailed tickets with problem description, how to reproduce
+
+16
+00:00:53,280 --> 00:00:59,399
+system info suggested solution and routes to right human agent.
+
+17
+00:00:59,399 --> 00:01:05,519
+System learns from resolved tickets, gets smarter over time, identifies problems.
+
+18
+00:01:05,519 --> 00:01:10,159
+That one happens because the whole background gets better.
+
+19
+00:01:10,159 --> 00:01:15,439
+The agent how do you say what you're having.
+
+20
+00:01:15,439 --> 00:01:17,879
+Hey we're setting up this workflow for you.
+
+21
+00:01:17,879 --> 00:01:18,879
+This is going to be working.
+
+22
+00:01:19,479 --> 00:01:23,879
+This is going to help Jacqueline to be able to deal with additional load to see what we
+
+23
+00:01:23,879 --> 00:01:24,879
+get.
+
+24
+00:01:24,879 --> 00:01:27,879
+This one will improve the quality.
+
+25
+00:01:27,879 --> 00:01:31,879
+So Jacqueline spends most of her time organizing and prioritizing tickets right?
+
+26
+00:01:31,879 --> 00:01:32,879
+Yes, a lot of that.
+
+27
+00:01:32,879 --> 00:01:35,799
+And a lot of that will be done by this one already.
+
+28
+00:01:35,799 --> 00:01:42,319
+The thing is this one will do already initial triage as they knew because sometimes you
+
+29
+00:01:43,319 --> 00:01:49,319
+how do you say you can resolve a problem already in five minutes but because you're only the
+
+30
+00:01:49,319 --> 00:01:53,519
+next day picking up the tickets it's always going to take a day.
+
+31
+00:01:53,519 --> 00:01:56,319
+So if somebody has a quick question it will never ask that.
+
+32
+00:01:56,319 --> 00:02:00,639
+At some moment you can integrate that with the frequent asked questions and what so ever
+
+33
+00:02:00,639 --> 00:02:02,959
+and have a really smart AI what so ever.
+
+34
+00:02:02,959 --> 00:02:08,319
+Or if you have a frequent asked question whatever that gets a complicated one that it actually
+
+35
+00:02:08,319 --> 00:02:09,319
+routes it to this one.
+
+36
+00:02:09,319 --> 00:02:15,319
+Because this one is more for development this is like support this is not question.
+
+37
+00:02:15,319 --> 00:02:21,319
+And for example key requirements must have any workflow automation, AI ticket classification,
+
+38
+00:02:21,319 --> 00:02:27,319
+auto response for simple issues, human escalation for complex issues, integration with existing
+
+39
+00:02:27,319 --> 00:02:28,319
+ticketing system.
+
+40
+00:02:28,319 --> 00:02:34,319
+But nice to have would be staff training, knowledge based setup and like a dashboard
+
+41
+00:02:34,319 --> 00:02:36,319
+or something like that is like useless.
+
+42
+00:02:37,319 --> 00:02:41,319
+Because they have a ready ticketing system for that one.
+
+43
+00:02:43,319 --> 00:02:46,319
+So staff training would be nice to have.
+
+44
+00:02:46,319 --> 00:02:52,319
+Staff training is from how this works.
+
+45
+00:02:52,319 --> 00:02:54,319
+When you put a special price, a separate price on it.
+
+46
+00:02:54,319 --> 00:02:57,319
+So you have like this is the normal price for the product.
+
+47
+00:02:57,319 --> 00:03:00,319
+This one is for training sessions.
+
+48
+00:03:00,319 --> 00:03:05,319
+Like half day training sessions where you put for example.
+
+49
+00:03:05,319 --> 00:03:08,319
+And then they can see how many they want.
+
+50
+00:03:08,319 --> 00:03:13,319
+Ok now this timeline I set 4 weeks you set 2 weeks.
+
+51
+00:03:13,319 --> 00:03:16,319
+For the one from Jacqueline.
+
+52
+00:03:16,319 --> 00:03:18,319
+For this ticketing system.
+
+53
+00:03:18,319 --> 00:03:27,319
+For the ticketing system actually how do you say that one can take longer because that
+
+54
+00:03:27,319 --> 00:03:32,319
+one has more how you call that.
+
+55
+00:03:32,319 --> 00:03:35,319
+It's a workflow that we need to figure out still.
+
+56
+00:03:35,319 --> 00:03:36,319
+What?
+
+57
+00:03:36,319 --> 00:03:41,319
+The one from the ticketing because the one that you have there is too simplified because
+
+58
+00:03:41,319 --> 00:03:42,319
+it's not just.
+
+59
+00:03:42,319 --> 00:03:47,319
+Yeah but this those two end to end projects they go together.
+
+60
+00:03:47,319 --> 00:03:50,319
+They are two different ones.
+
+61
+00:03:50,319 --> 00:03:52,319
+So I need to make two proposals.
+
+62
+00:03:52,319 --> 00:03:53,319
+Yes.
+
+63
+00:03:53,319 --> 00:03:56,319
+Actually you should have said that sooner.
+
+64
+00:03:56,319 --> 00:03:58,319
+No I have said that.
+
+65
+00:03:58,319 --> 00:04:00,319
+I read your emails back.
+
+66
+00:04:00,319 --> 00:04:01,319
+Huh?
+
+67
+00:04:01,319 --> 00:04:03,319
+Read my replies back.
+
+68
+00:04:03,319 --> 00:04:05,319
+I have replying that to you.
+
+69
+00:04:05,319 --> 00:04:07,319
+I was making that dramatic.
+
+70
+00:04:07,319 --> 00:04:09,319
+Hey there is also another one.
+
+71
+00:04:09,319 --> 00:04:11,319
+You're forgetting the other one.
+
+72
+00:04:11,319 --> 00:04:18,319
+There are like there are several proposals that you are going to be making in principle.
+
+73
+00:04:21,319 --> 00:04:24,319
+This is for the first time from there to ah you did tell me.
+
+74
+00:04:26,319 --> 00:04:27,319
+So tell me.
+
+75
+00:04:27,319 --> 00:04:28,319
+Okay so.
+
+76
+00:04:28,319 --> 00:04:40,319
+You know what I was talking to mom the Wednesday morning whatever and I was to mom hey honey
+
+77
+00:04:40,319 --> 00:04:42,319
+you know what is the main insight.
+
+78
+00:04:42,319 --> 00:04:43,319
+Yeah yeah yeah.
+
+79
+00:04:43,319 --> 00:04:47,319
+You know what is the main takeaway from this whole conversation.
+
+80
+00:04:47,319 --> 00:04:51,319
+Yeah yeah just wait a minute.
+
+81
+00:04:51,319 --> 00:04:58,319
+You know what is the main insight is people should start listening to me instead of criticizing
+
+82
+00:04:58,319 --> 00:05:00,319
+and whatsoever you know.
+
+83
+00:05:00,319 --> 00:05:06,319
+And mom saying the whole time yeah yeah whatever I'm busy or whatever having my massage here
+
+84
+00:05:06,319 --> 00:05:08,319
+I'm on the phone here whatsoever.
+
+85
+00:05:08,319 --> 00:05:10,319
+And why does nobody tell me?
+
+86
+00:05:10,319 --> 00:05:12,319
+No nobody tells you.
+
+87
+00:05:12,319 --> 00:05:13,319
+You don't listen.
+
+88
+00:05:13,319 --> 00:05:15,319
+That's the same as the table.
+
+89
+00:05:15,319 --> 00:05:17,319
+You're mixing my content already.
+
+90
+00:05:17,319 --> 00:05:26,319
+Anyway so you have how do you say the workflow one yeah is actually a complete work out process
+
+91
+00:05:26,319 --> 00:05:27,319
+already.
+
+92
+00:05:27,319 --> 00:05:33,319
+It's in the whole CI CD pipeline we have feedback how do you say it's a completely fine feedback
+
+93
+00:05:33,319 --> 00:05:35,319
+loop but it needs to be automated.
+
+94
+00:05:35,319 --> 00:05:41,319
+At this moment we need to kick in prompt by prompt by prompt and that is just output from
+
+95
+00:05:41,319 --> 00:05:47,319
+the build process can be can be directly fed into the next process to run.
+
+96
+00:05:47,319 --> 00:05:50,319
+Did you get what I'm saying there?
+
+97
+00:05:50,319 --> 00:05:59,319
+I didn't listen to the last part honestly because I was like what?
+
+98
+00:05:59,319 --> 00:06:05,319
+So the end on the development side yeah that is an already established process.
+
+99
+00:06:05,319 --> 00:06:07,319
+We know what we need to do.
+
+100
+00:06:07,319 --> 00:06:08,319
+Yeah.
+
+101
+00:06:08,319 --> 00:06:12,319
+The only thing that needs to be done is the prompts that I already prepared that are already
+
+102
+00:06:12,319 --> 00:06:13,319
+prepared for N8N.
+
+103
+00:06:13,319 --> 00:06:15,319
+All of those things are already there.
+
+104
+00:06:15,319 --> 00:06:19,319
+They need to be implemented doing it in N8N.
+
+105
+00:06:25,319 --> 00:06:28,319
+It should be the easiest one to set up.
+
+106
+00:06:28,319 --> 00:06:31,319
+That one has also the biggest value.
+
+107
+00:06:31,319 --> 00:06:39,319
+I'm going to try to do all my questions quick so I can just go home and finish up this and
+
+108
+00:06:39,319 --> 00:06:41,319
+I can send it today already.
+
+109
+00:06:41,319 --> 00:06:43,319
+I need to make two proposals.
+
+110
+00:06:43,319 --> 00:06:45,319
+One is for the N8N.
+
+111
+00:06:45,319 --> 00:06:48,319
+I'm not sure if it should be two maybe it should be more.
+
+112
+00:06:48,319 --> 00:06:52,319
+Again you have also that training whatsoever.
+
+113
+00:06:52,319 --> 00:06:57,319
+It's from hey after we've done this one we can train you how to do this in a very efficient
+
+114
+00:06:57,319 --> 00:06:58,319
+way.
+
+115
+00:06:58,319 --> 00:07:03,319
+You have seen that we will deliver this one in a two week time frame.
+
+116
+00:07:03,319 --> 00:07:06,319
+We can teach you to do the same.
+
+117
+00:07:06,319 --> 00:07:07,319
+Yeah.
+
+118
+00:07:07,319 --> 00:07:10,319
+No, no, no.
+
+119
+00:07:10,319 --> 00:07:21,319
+My question is can you describe more accurately what is the first N8N project and what is the
+
+120
+00:07:21,319 --> 00:07:23,319
+second N8N project?
+
+121
+00:07:23,319 --> 00:07:25,319
+There are two projects.
+
+122
+00:07:25,319 --> 00:07:32,319
+The first one is that will help with the triage and the first line help support.
+
+123
+00:07:32,319 --> 00:07:46,319
+And that AI agent that gets that information in should have how do you say the result of
+
+124
+00:07:46,319 --> 00:07:51,319
+that one should be that Jacqueline has less things to work on, less things to do.
+
+125
+00:07:51,319 --> 00:07:56,319
+Many tickets that are currently coming in, Karine needs to figure out who's going to
+
+126
+00:07:56,319 --> 00:08:00,319
+do that one and the only thing what we are doing is we are copying that one straight
+
+127
+00:08:00,319 --> 00:08:06,319
+into cursor and fix everything straight away from start to finish.
+
+128
+00:08:06,319 --> 00:08:11,319
+How do you say there will be some things where this cannot be having complex tickets?
+
+129
+00:08:11,319 --> 00:08:17,319
+Complex tickets yes we can do that one, yes it can go through it but that one needs to
+
+130
+00:08:17,319 --> 00:08:19,319
+have a stronger review.
+
+131
+00:08:19,319 --> 00:08:25,319
+That is like the review cycle of the thing because this is not just classifying a ticket
+
+132
+00:08:25,319 --> 00:08:26,319
+and whatsoever.
+
+133
+00:08:26,319 --> 00:08:32,319
+No, this is the full flow that actually already fixes the ticket because that is what we are
+
+134
+00:08:32,319 --> 00:08:33,319
+doing.
+
+135
+00:08:33,319 --> 00:08:37,319
+I'm just copying the content, the logging or whatever from the cursor in, I'm just copying
+
+136
+00:08:37,319 --> 00:08:42,319
+it in and it just gives me the answer already.
+
+137
+00:08:42,319 --> 00:08:46,319
+So I'm not needed here.
+
+138
+00:08:46,320 --> 00:08:54,320
+But that whole process drags everything down in speed at this moment.
+
+139
+00:08:54,320 --> 00:09:01,320
+Now, by just how to say sometimes a fix is so easy that this one hey this is wrong spell
+
+140
+00:09:01,320 --> 00:09:06,320
+and whatsoever, that is something, you know, quick easy things.
+
+141
+00:09:06,320 --> 00:09:12,320
+They can be done almost automatically if not completely automatically.
+
+142
+00:09:12,320 --> 00:09:16,320
+But that means also, automatically means also that it does, how do you say, it makes
+
+143
+00:09:16,320 --> 00:09:21,320
+a fix but it also commits the fix as the whole description of the fix and whatsoever.
+
+144
+00:09:21,320 --> 00:09:27,320
+And then it's still from okay when do we apply this fix or where do we apply this fix.
+
+145
+00:09:27,320 --> 00:09:33,320
+All of that one, the branching and whatsoever, all of that pre-work can be done already by
+
+146
+00:09:33,320 --> 00:09:34,320
+AI.
+
+147
+00:09:34,320 --> 00:09:39,320
+So you are only what you need to do is that last final step review whatever yes this makes
+
+148
+00:09:39,320 --> 00:09:44,320
+sense, build and deliver.
+
+149
+00:09:44,320 --> 00:09:45,320
+And the second project?
+
+150
+00:09:45,320 --> 00:09:53,320
+The second project is when we have a certain software made, it has a certain build pipeline
+
+151
+00:09:53,320 --> 00:09:54,320
+that it goes through.
+
+152
+00:09:54,320 --> 00:09:59,320
+Now that build pipeline I set up already.
+
+153
+00:09:59,320 --> 00:10:06,320
+Part of that build pipeline is how you say you get a certain results back, you get certain
+
+154
+00:10:06,320 --> 00:10:08,320
+quality reports back.
+
+155
+00:10:08,320 --> 00:10:16,320
+Based on those quality reports you can start up the next and it ends cycle that runs through
+
+156
+00:10:16,320 --> 00:10:18,320
+the next one.
+
+157
+00:10:18,320 --> 00:10:23,320
+So you, I have prompts, I get every report back and I prompt, hey run this prompt on
+
+158
+00:10:23,320 --> 00:10:30,320
+this one, that makes the plan to fix it, makes the fix, executes those plans, makes the fixes,
+
+159
+00:10:30,320 --> 00:10:37,320
+commits the, now I'm committing those fixes, compile again, get the new report.
+
+160
+00:10:37,320 --> 00:10:39,320
+And you cycle, cycle, cycle.
+
+161
+00:10:39,320 --> 00:10:41,320
+Can you explain that one better?
+
+162
+00:10:41,320 --> 00:10:49,320
+The, how do you say, you have for example, you have is everything documented?
+
+163
+00:10:49,320 --> 00:10:55,320
+It says from hey, this and this class is not documented, this function is not documented,
+
+164
+00:10:55,320 --> 00:10:57,320
+it's all in the report.
+
+165
+00:10:57,320 --> 00:11:04,320
+So after the build you can put that straight to the, how do you say, to the process to
+
+166
+00:11:04,320 --> 00:11:05,320
+fix documentation.
+
+167
+00:11:05,320 --> 00:11:10,320
+Hey, based on this result, run this prompt, make the documentation.
+
+168
+00:11:10,320 --> 00:11:18,320
+So the second and it ends workflow is essentially, so every git repository is correctly documented.
+
+169
+00:11:18,320 --> 00:11:28,320
+Documented, unit tested, crap score fixed, if it has license problems, is it, is a whole
+
+170
+00:11:28,320 --> 00:11:29,320
+chain of...
+
+171
+00:11:29,320 --> 00:11:33,320
+I need to know exactly what things you need to fix.
+
+172
+00:11:33,320 --> 00:11:41,320
+The thing, it creates a report, yeah, and based on the, there's like, we are not doing
+
+173
+00:11:41,320 --> 00:11:44,320
+any errors, warnings, and that's it for now.
+
+174
+00:11:44,320 --> 00:11:52,320
+So all the warnings that it gets, yeah, there is already a process when, give me those warnings
+
+175
+00:11:52,320 --> 00:11:59,320
+based on the output of that one, what processes do I need to start to show, which prompt do
+
+176
+00:11:59,320 --> 00:12:02,320
+I need to run, and it will run those prompts away.
+
+177
+00:12:02,320 --> 00:12:09,320
+And that process is already there, but it's going to be a manual process, and with NNN
+
+178
+00:12:09,320 --> 00:12:11,320
+it should become an automatic process.
+
+179
+00:12:11,320 --> 00:12:15,320
+Yeah, I don't know if NNN can run prompts, but it definitely can.
+
+180
+00:12:15,320 --> 00:12:22,320
+You can run an agent, an agent is a, the prompt is the agent, and then your in and output
+
+181
+00:12:22,320 --> 00:12:23,320
+is the file that you're running.
+
+182
+00:12:23,320 --> 00:12:27,320
+But then that would mean you have to do so many agents for every single one of the prompts.
+
+183
+00:12:27,320 --> 00:12:29,320
+Sorry, there?
+
+184
+00:12:29,320 --> 00:12:31,320
+No, no.
+
+185
+00:12:31,320 --> 00:12:33,320
+Or one agent has all the prompts.
+
+186
+00:12:33,320 --> 00:12:38,320
+One, no, you have multiple, you will probably have multiple agents, which has to run.
+
+187
+00:12:38,320 --> 00:12:43,320
+Yeah, but that's the thing, do you want to make an NNN work with 60 agents?
+
+188
+00:12:43,320 --> 00:12:47,320
+If that is, how do you say, if one agent...
+
+189
+00:12:47,320 --> 00:12:51,320
+What I mean is just that is more complicated, that will take more than two weeks.
+
+190
+00:12:51,320 --> 00:12:53,320
+No, it doesn't.
+
+191
+00:12:53,320 --> 00:12:59,320
+Because what you do is, hey, for the, create me the script and whatsoever, or the Python
+
+192
+00:12:59,320 --> 00:13:06,320
+script and whatsoever, that makes from this, how do you say, from this prompt, converts
+
+193
+00:13:06,320 --> 00:13:10,320
+that it starts and runs as an agent, doing blah, blah, blah.
+
+194
+00:13:10,320 --> 00:13:13,320
+You're creating the process to make these types of things.
+
+195
+00:13:13,320 --> 00:13:15,320
+Eva is already working on that.
+
+196
+00:13:15,320 --> 00:13:17,320
+You don't do those things for my little girl.
+
+197
+00:13:17,320 --> 00:13:24,320
+Anyways, I will try to have the proposal for today, later, like after midday, probably.
+
+198
+00:13:24,320 --> 00:13:25,320
+Yeah, yeah.
+
+199
+00:13:25,320 --> 00:13:29,320
+But the process is in an automated flow.
+
+200
+00:13:29,320 --> 00:13:37,320
+Eva actually has already the cursor instances with all the prompts in it that do that flow.
+
+201
+00:13:37,320 --> 00:13:47,320
+Just to clarify again, it would be nice to have, like what to deliver is a short documentation
+
+202
+00:13:47,320 --> 00:13:52,320
+with executive summary, what the project does, what the...
+
+203
+00:13:52,320 --> 00:13:59,320
+What the project gives you, what you're going to improve on that, what you're going to accelerate
+
+204
+00:13:59,320 --> 00:14:00,320
+with that.
+
+205
+00:14:00,320 --> 00:14:01,320
+Yeah, but I need...
+
+206
+00:14:01,320 --> 00:14:06,320
+Yeah, so you have three, you have basically three accelerators.
+
+207
+00:14:06,320 --> 00:14:08,320
+One is the accelerator for Jacqueline.
+
+208
+00:14:08,320 --> 00:14:13,320
+The other accelerator is for the build workflow, so the quality goes up automatically.
+
+209
+00:14:13,320 --> 00:14:18,320
+And the third one is to accelerate Energy 21 to start learning to do these things.
+
+210
+00:14:18,320 --> 00:14:20,320
+Yeah, those are where it accelerates.
+
+211
+00:14:20,320 --> 00:14:21,320
+No, but I want to know.
+
+212
+00:14:21,320 --> 00:14:22,320
+All of those.
+
+213
+00:14:22,320 --> 00:14:23,320
+Yeah, I know.
+
+214
+00:14:23,320 --> 00:14:25,320
+Executive summary.
+
+215
+00:14:25,320 --> 00:14:26,320
+Yeah.
+
+216
+00:14:26,320 --> 00:14:27,320
+What the project is.
+
+217
+00:14:27,320 --> 00:14:30,320
+What the project is.
+
+218
+00:14:30,320 --> 00:14:34,320
+Wait, what the project is.
+
+219
+00:14:34,320 --> 00:14:44,320
+Then you have how much it costs, what it accelerates for you, what does it solve?
+
+220
+00:14:44,320 --> 00:14:51,320
+For you, you say solve, I say accelerate because it's...
+
+221
+00:14:51,320 --> 00:14:54,320
+What the project accelerates for you.
+
+222
+00:14:54,320 --> 00:15:02,320
+Yeah, because that is what is going to, how do you say, that is the only thing that matters
+
+223
+00:15:02,320 --> 00:15:04,320
+is how much faster are we going to be.
+
+224
+00:15:04,320 --> 00:15:10,320
+What can one person do instead of, you know, now the person start having time again and
+
+225
+00:15:10,320 --> 00:15:13,320
+now the person is not overrun.
+
+226
+00:15:13,320 --> 00:15:17,320
+Now the people stop doing robot work.
+
+227
+00:15:19,320 --> 00:15:22,320
+Yeah, yeah, what can be automated?
+
+228
+00:15:22,320 --> 00:15:28,320
+It's not robots are going to leave us without work, it's we are doing robot work.
+
+229
+00:15:28,320 --> 00:15:31,320
+Yeah, and stop doing that.
+
+230
+00:15:31,320 --> 00:15:32,320
+Yes.
+
+231
+00:15:32,320 --> 00:15:34,320
+Anyways, I do get it.
+
+232
+00:15:34,320 --> 00:15:41,320
+Anyways, and then apart from that short description, short everything, you want a more detailed
+
+233
+00:15:41,320 --> 00:15:42,320
+proposal with...
+
+234
+00:15:42,320 --> 00:15:48,320
+I think, how do you say, it doesn't have to have a lot of blue.
+
+235
+00:15:48,320 --> 00:15:51,320
+This is what I need to be present to Gaston.
+
+236
+00:15:51,320 --> 00:15:55,320
+Yes, but I need to know what they're expecting, what is the quality you're expecting, what
+
+237
+00:15:55,320 --> 00:15:57,320
+is the format you're expecting.
+
+238
+00:15:57,320 --> 00:16:00,320
+How do you say...
+
+239
+00:16:00,320 --> 00:16:04,320
+It would be so easy if I had a previous proposal for example.
+
+240
+00:16:04,320 --> 00:16:06,320
+Yeah, I don't have that one.
+
+241
+00:16:06,320 --> 00:16:11,320
+And the thing is, I had to say, this is one initial one with Gaston.
+
+242
+00:16:11,320 --> 00:16:16,320
+And the problem that is here is that you are family.
+
+243
+00:16:16,320 --> 00:16:23,320
+But there's also the solution, that's why I know you will be able to do this.
+
+244
+00:16:23,320 --> 00:16:26,320
+I know we can pull this off.
+
+245
+00:16:26,320 --> 00:16:34,320
+It's a nice start showing them your quality and that teaching and whatsoever, hey, if
+
+246
+00:16:34,320 --> 00:16:39,320
+we need to be in Europe, then if we need to fly and whatsoever on short notice, how
+
+247
+00:16:39,320 --> 00:16:46,320
+do you say, transport and accommodation is arranged by Volanto whatsoever, or we arrange
+
+248
+00:16:46,320 --> 00:16:49,320
+it and then it will be about this price.
+
+249
+00:16:49,320 --> 00:16:50,320
+Yep.
+
+250
+00:16:50,320 --> 00:16:59,320
+But it could, how do you say, add it to the proposal one.
+
+251
+00:17:00,320 --> 00:17:05,320
+For me it should be like a short one from Gaston.
+
+252
+00:17:05,320 --> 00:17:11,320
+Yeah, honestly, traveling at this moment is going to be expensive, but not because the
+
+253
+00:17:11,320 --> 00:17:12,320
+plane tickets are expensive.
+
+254
+00:17:12,320 --> 00:17:17,320
+It's because I have, I'm starting, it's very inconvenient for me, but I will do it.
+
+255
+00:17:17,320 --> 00:17:19,320
+It will cost more.
+
+256
+00:17:19,320 --> 00:17:27,320
+Anyway, but the thing is, how and what are you going to be, how do you say, it's a document
+
+257
+00:17:27,319 --> 00:17:36,319
+that I can offer to Gaston and where Gaston can say this is fair, this is not extreme,
+
+258
+00:17:36,319 --> 00:17:40,319
+don't do that, just from hey, this is a fair price.
+
+259
+00:17:40,319 --> 00:17:43,319
+No, that's why I asked you because I was already like.
+
+260
+00:17:43,319 --> 00:17:50,319
+No, how do you say, what I mean is with this one, if you make in two weeks this amount
+
+261
+00:17:50,319 --> 00:17:52,319
+of money, you're running positive.
+
+262
+00:17:52,319 --> 00:17:53,319
+That is what I mean.
+
+263
+00:17:53,319 --> 00:17:56,319
+You're making already more than what.
+
+264
+00:17:56,319 --> 00:17:57,319
+Yeah.
+
+265
+00:17:57,319 --> 00:18:01,319
+At that moment you can already start thinking, okay.
+
+266
+00:18:01,319 --> 00:18:07,319
+And then after that we already have good, how do you say, good propaganda.
+
+267
+00:18:07,319 --> 00:18:10,319
+We were able to pull this off.
+
+268
+00:18:10,319 --> 00:18:13,319
+If you do, right, and what's the matter, blah, blah, blah, all those things.

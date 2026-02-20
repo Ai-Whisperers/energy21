@@ -1,0 +1,187 @@
+1
+00:00:00,000 --> 00:00:14,000
+Okay, my boss assigned me a task and I need to make a proposal for a company in the Netherlands that's called Energy 21
+
+2
+00:00:14,000 --> 00:00:25,000
+that works with a company in Paraguay that's called D.P.G. Waste Poll Group.
+
+3
+00:00:25,000 --> 00:00:39,000
+Basically, what they need is for us, AI Whispers, to create an N8N workflow
+
+4
+00:00:39,000 --> 00:00:46,000
+but actually it's not just one N8N workflow, basically what they want is a ticket analyser
+
+5
+00:00:46,000 --> 00:00:51,000
+they want to stop wasting so much time fixing stuff
+
+6
+00:00:51,000 --> 00:01:00,000
+and the whole idea is that they have a place where they get the input from the clients
+
+7
+00:01:00,000 --> 00:01:03,000
+like if something is failing, if something isn't working
+
+8
+00:01:03,000 --> 00:01:07,000
+and some of the times it's just answering to the people
+
+9
+00:01:07,000 --> 00:01:12,000
+but other times there's actual bugs in the program or whatever
+
+10
+00:01:12,000 --> 00:01:19,000
+so the idea is to have a workflow where an AI can answer and fix and iterate
+
+11
+00:01:19,000 --> 00:01:23,000
+and fix basically all of the things it can fix already
+
+12
+00:01:23,000 --> 00:01:30,000
+and only the things that it cannot fix, it goes to an actual person to look over
+
+13
+00:01:30,000 --> 00:01:39,000
+so instead of having one person manually look over all of the comments and all of the inputs and all of the emails or whatever
+
+14
+00:01:39,000 --> 00:01:42,000
+you have an AI looking at all of that
+
+15
+00:01:42,000 --> 00:01:45,000
+and you're wasting less time in that
+
+16
+00:01:45,000 --> 00:01:49,000
+Now the other thing is the ticketing system itself
+
+17
+00:01:49,000 --> 00:01:53,000
+to have, based on the things that it couldn't fix
+
+18
+00:01:53,000 --> 00:02:03,000
+or I mean, yeah, to create the stories and tickets with all the information needed to fix those things
+
+19
+00:02:04,000 --> 00:02:13,000
+and the idea is to basically because Energy 21 isn't wasting
+
+20
+00:02:13,000 --> 00:02:19,000
+it's not using their resources or their employees to do these things
+
+21
+00:02:19,000 --> 00:02:25,000
+to learn these tools and do this automation
+
+22
+00:02:25,000 --> 00:02:29,000
+basically hire external talent, AI whispers
+
+23
+00:02:29,000 --> 00:02:34,000
+to set this up for them
+
+24
+00:02:34,000 --> 00:02:39,000
+and so the idea is to create the workflows and set them up
+
+25
+00:02:39,000 --> 00:02:42,000
+so they can start implementing that
+
+26
+00:02:42,000 --> 00:02:50,000
+probably additionally they're gonna need courses or I don't know, explanation on how everything works
+
+27
+00:02:50,000 --> 00:02:54,000
+but I need to make a proposal for this
+
+28
+00:02:54,000 --> 00:02:58,000
+like how are we going to make things, how long is it going to take
+
+29
+00:02:58,000 --> 00:03:01,000
+how much are we expecting
+
+30
+00:03:01,000 --> 00:03:05,000
+how much do we want to be paid for this job
+
+31
+00:03:09,000 --> 00:03:13,000
+basically I want a proposal that convinces them
+
+32
+00:03:13,000 --> 00:03:18,000
+why it's worth paying what we're going to ask
+
+33
+00:03:18,000 --> 00:03:23,000
+which I have to calculate but the idea is to put us in positive numbers
+
+34
+00:03:23,000 --> 00:03:28,000
+and yeah
+
+35
+00:03:35,000 --> 00:03:47,000
+like my boss, my main investor and my co-founder were talking
+
+36
+00:03:47,000 --> 00:03:51,000
+they have this idea to
+
+37
+00:03:51,000 --> 00:03:55,000
+it's actually a marketing idea
+
+38
+00:03:55,000 --> 00:04:00,000
+because we are AI whispers, we are magicians of the AI
+
+39
+00:04:00,000 --> 00:04:05,000
+basically the idea is we are setting our company to be AI native
+
+40
+00:04:05,000 --> 00:04:09,000
+and work and be efficient
+
+41
+00:04:09,000 --> 00:04:13,000
+basically all of the things that we want to offer
+
+42
+00:04:13,000 --> 00:04:17,000
+to do for other companies that we are already using those things
+
+43
+00:04:17,000 --> 00:04:19,000
+that we are already implementing that
+
+44
+00:04:19,000 --> 00:04:22,000
+we are the proof that those things work
+
+45
+00:04:22,000 --> 00:04:25,000
+and why they should be doing like that
+
+46
+00:04:25,000 --> 00:04:28,000
+why they should be using AI
+
+47
+00:04:28,000 --> 00:04:34,000
+to not fall behind other competencies
