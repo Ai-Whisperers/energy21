@@ -19,128 +19,102 @@
 - **Kyrian Weiss van der Pol** - Technical Management  
 - **Jonathan Verdun** - Operations
 
-### Three Accelerators
-
-| # | Accelerator | Status | Investment | Timeline |
-|---|-------------|--------|------------|----------|
-| 1 | **Ticket Triage** | ✅ Ready | $20,000 | 2 weeks |
-| 2 | **Build Pipeline** | 📋 Pending | $15,000-$20,000 | 2 weeks |
-| 3 | **Training** | 📋 Future | TBD | After pilot |
-
 ---
 
 ## Directory Structure
 
 ```
-KIKI-README-/
-├── 00_Offers_and_Pitches/            # All Offers, Pitches, and Commercial Proposals
-├── 01_Engagement_Overview/           # Main engagement & overview docs
-├── 02_Accelerator_1_Ticket_Triage/   # Accelerator 1: AI Ticket Automation
-├── 03_Accelerator_2_Build_Pipeline/  # Accelerator 2: CI/CD Automation  
-├── 04_Accelerator_3_Training/        # Accelerator 3: Company-wide Training
-├── 05_Company_Foundation/            # AI Whisperers internal docs
-├── 06_Research/                      # Research (People & Companies)
-│   ├── 01_People/                   # Person profiles and research
-│   └── 02_Companies/                 # Company profiles and research
-├── 07_Solstein_Platform/            # Solstein platform documentation
-├── 08_Transcripts/                  # Meeting transcripts and recordings
-└── README.md                        # This file
+├── Projects/              # Product implementations
+│   ├── Solstein/         # Main n8n automation platform
+│   └── Star_Engine/      # Secondary n8n project
+├── Pitches/              # Client pitches and proposals
+│   ├── Energy21/         # Energy21 client materials
+│   └── Solstein/         # Investor/fundraising pitches
+├── Company/              # Internal company documents
+│   ├── Strategy/         # Strategic planning
+│   ├── Onboarding/       # Onboarding guides
+│   ├── Templates/        # Legal/business templates
+│   └── Research/         # Market research & analysis
+├── Operational/          # Development tools
+│   ├── .sisyphus/        # Strategic planning
+│   ├── .antigravity/     # Claude Code prompts/rules
+│   └── cicd/             # CI/CD pipelines
+├── Archive/              # Historical materials
+└── README.md             # This file
 ```
 
 ---
 
-## Directory Contents
+## Projects
 
-### 00_Offers_and_Pitches
-| Folder | Description |
-|--------|-------------|
-| `01_Energy21/` | Commercial pitches and proposals for Energy21 |
-| `02_Solstein/` | Commercial pitches and strategic proposals for Solstein |
+### Solstein
+Main n8n automation platform - B2B SaaS product for energy sector automation.
 
-### 01_Engagement_Overview
-| File | Description |
-|------|-------------|
-| `README.md` | Engagement overview and index |
-| `Energy21_Business_Proposal_PRO.md` | Board-level proposal ($45M roadmap) |
+### Star_Engine  
+Secondary n8n project - Ticket triage and workflow automation (formerly Accelerator 1).
 
-### 02_Accelerator_1_Ticket_Triage
-| File | Description |
-|------|-------------|
-| `README.md` | Accelerator overview |
-| `Executive_Summary.md` | One-page summary |
-| `Energy21_Workflow_Architecture.md` | Technical architecture |
-| `Energy21_Quick_Reference.md` | Quick reference guide |
+---
 
-### 03_Accelerator_2_Build_Pipeline
-| File | Description |
-|------|-------------|
-| `README.md` | Accelerator overview |
-| `Executive_Summary.md` | One-page summary |
+## Pitches
 
-### 04_Accelerator_3_Training
-| File | Description |
-|------|-------------|
-| `README.md` | Accelerator overview |
-| `Executive_Summary.md` | One-page summary |
+### Energy21
+Client pitches and proposals for the Energy21/Eneve engagement.
 
-### 05_Company_Foundation
-| File | Description |
-|------|-------------|
-| `README.md` | Company foundation index |
-| `01_Strategy/` | Strategy, roadmap, positioning documents |
-| `02_Templates/` | Legal templates, MSA, IP agreements |
-| `03_Onboarding/` | Onboarding guides for team members |
+### Solstein
+Investor pitches, fundraising materials, and strategic proposals.
 
-### 06_Research
-| File | Description |
-|------|-------------|
-| `01_People/` | All person research profiles |
-| `02_Companies/` | All company research profiles |
+---
 
-#### 06_Research/01_People
-| File | Description |
-|------|-------------|
-| `README.md` | People research index |
-| `01_ivan-weiss-van-der-pol.md` | Founder profile |
-| `02_kyrian-weiss-van-der-pol.md` | Technical lead profile |
-| `03_jonathan-verdun.md` | Operations profile |
-| `04_john-vanderpol.md` | Technical wizard at Eneve |
-| `05_michiel-kuiper.md` | CEO, Eneve (verified) |
-| `06_gaston-hendriks.md` | Co-founder Energy21 (verified) |
-| `07_jacqueline.md` | Support lead, W.P.G. |
-| `08_eva.md` | Build pipeline, Eneve |
-| `09_martinus.md` | Domain lead, Eneve |
-| `10_organizations.md` | Organizations summary |
-| `11_sarah-williams.md` | PRO proposal template |
-| `12_marcus-chen.md` | PRO proposal template |
-| `13_dr-elena-vasquez.md` | PRO proposal template |
-| `14_dr-james-obrien.md` | PRO proposal template |
-| `15_research_checklist.md` | Outstanding research items |
+## Company
 
-#### 06_Research/02_Companies
-| File | Description |
-|------|-------------|
-| `README.md` | Companies research index |
-| `20_vortex-capital-partners.md` | PE firm profile (verified) |
-| `21_octopus-energy-kraken.md` | Competitor profile |
-| `22_axpo.md` | Client profile |
+### Strategy
+Strategic planning documents including:
+- AI Whisperers strategy
+- Positioning and GTM strategy
+- Research reports
+- Strategic roadmap
 
-### 07_Solstein_Platform
-| File | Description |
-|------|-------------|
-| `README.md` | Platform documentation index |
-| `LORE/` | Origin, vision, methodology docs |
-| `guides/` | Developer and operator guides |
-| `api/` | API reference |
-| `architecture/` | Architecture decisions |
-| `archive/` | Historical/archived docs |
+### Onboarding
+Team and client onboarding materials:
+- Master setup checklist
+- Onboarding guide
+- Startup masterguide
 
-### 08_Transcripts
-| File | Description |
-|------|-------------|
-| `Energy21 Three Accelerators Scope Discussion.*` | Meeting transcript |
-| `Energy21 N8N Ticket Automation Proposal.*` | Proposal meeting |
-| `Energy21 Proposal Pricing Feedback.*` | Pricing discussion |
+### Templates
+Legal and business templates:
+- Data Room Index
+- Client Discovery Questionnaire
+- IP Assignment Agreement
+- Master Services Agreement
+
+### Research
+Market research and competitive intelligence:
+- **COMPETITION/** - Competitor analysis (36 companies)
+- **FINANCIALDASHBOARD/** - Financial analysis dashboards
+- **01_People/** - Person profiles and research
+- **02_Companies/** - Company profiles and research
+
+---
+
+## Operational
+
+### .sisyphus
+Strategic planning notebooks and execution tracking.
+
+### .antigravity  
+Claude Code prompts, rules, exemplars, and scripts for AI-assisted development.
+
+### cicd
+CI/CD pipelines, automation scripts, and quality enforcement tools.
+
+---
+
+## Archive
+
+Historical materials no longer actively used:
+- Old engagement overviews
+- Deprecated accelerator documents (Build Pipeline, Training)
+- Historical transcripts
 
 ---
 
@@ -160,13 +134,6 @@ KIKI-README-/
 | **AXPO** | Real client | Case studies |
 | **Octopus Energy/Kraken** | Real competitor | BBC, CNBC |
 
-### Fictional/Template Profiles
-These appear in the PRO proposal for positioning:
-- Sarah Williams (CEO template)
-- Marcus Chen (VP Engineering template)
-- Dr. Elena Vasquez (CTO template)
-- Dr. James O'Brien (AI Research template)
-
 ---
 
 ## Key Contacts
@@ -176,7 +143,6 @@ These appear in the PRO proposal for positioning:
 | Kyrian Weiss van der Pol | AI Whisperers | kyrianweiss.vdp@gmail.com | ✅ Verified |
 | Michiel Kuiper | CEO, Eneve | - | Unverified |
 | Gaston Hendriks | Co-founder, Energy21 | - | Unverified |
-| Jacqueline | Support Lead, W.P.G. | - | Unverified |
 
 **AI Whisperers Phone:** +595 0985724135
 
@@ -197,13 +163,13 @@ These appear in the PRO proposal for positioning:
 
 1. **Confidentiality:** Some documents contain confidential strategy information
 2. **Verification:** Not all persons have been verified through web research
-3. **Templates:** Some PRO proposal profiles are fictional templates
-4. **Active Engagement:** Accelerator 1 is the current active project
+3. **Templates:** Some profiles are fictional templates for proposals
+4. **Active Projects:** Solstein and Star_Engine are current active projects
 
 ---
 
 ## Last Updated
-2026-02-20
+2026-02-24
 
 ## Maintainer
 AI Whisperers Documentation
